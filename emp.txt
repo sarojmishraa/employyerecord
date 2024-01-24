@@ -1,0 +1,6 @@
+Saroj 15 07.2002 
+pratik 34 27.00 
+suraj 44.5 21.75 
+anurag 47.5 23.40 
+mahesh 50 12.85
+ramesh 12.45.82
